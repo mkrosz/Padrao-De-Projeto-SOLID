@@ -1,0 +1,14 @@
+C:\Users\MikeF\Downloads\Atividade_Solid\bin\Debug\net9.0\Atividade_Solid.exe
+C:\Users\MikeF\Downloads\Atividade_Solid\bin\Debug\net9.0\Atividade_Solid.deps.json
+C:\Users\MikeF\Downloads\Atividade_Solid\bin\Debug\net9.0\Atividade_Solid.runtimeconfig.json
+C:\Users\MikeF\Downloads\Atividade_Solid\bin\Debug\net9.0\Atividade_Solid.dll
+C:\Users\MikeF\Downloads\Atividade_Solid\bin\Debug\net9.0\Atividade_Solid.pdb
+C:\Users\MikeF\Downloads\Atividade_Solid\obj\Debug\net9.0\Atividade_Solid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MikeF\Downloads\Atividade_Solid\obj\Debug\net9.0\Atividade_Solid.AssemblyInfoInputs.cache
+C:\Users\MikeF\Downloads\Atividade_Solid\obj\Debug\net9.0\Atividade_Solid.AssemblyInfo.cs
+C:\Users\MikeF\Downloads\Atividade_Solid\obj\Debug\net9.0\Atividade_Solid.csproj.CoreCompileInputs.cache
+C:\Users\MikeF\Downloads\Atividade_Solid\obj\Debug\net9.0\Atividade_Solid.dll
+C:\Users\MikeF\Downloads\Atividade_Solid\obj\Debug\net9.0\refint\Atividade_Solid.dll
+C:\Users\MikeF\Downloads\Atividade_Solid\obj\Debug\net9.0\Atividade_Solid.pdb
+C:\Users\MikeF\Downloads\Atividade_Solid\obj\Debug\net9.0\Atividade_Solid.genruntimeconfig.cache
+C:\Users\MikeF\Downloads\Atividade_Solid\obj\Debug\net9.0\ref\Atividade_Solid.dll
